@@ -27,6 +27,7 @@ En este informe, presentaremos un análisis detallado de los datos recopilados d
  * Modelo del Almacén de Datos
  * Tablero de control con indicadores de desempeño
  * Modelo entrenado del sistema de recomendación
+#
 # Equipo de trabajo:
 + [Giselle Pereira Nuñez](https://www.linkedin.com/in/giselle-pereira-nu%C3%B1ez-011330168/)
 + [Emilio Santander](https://www.linkedin.com/in/emilio-santander/)
