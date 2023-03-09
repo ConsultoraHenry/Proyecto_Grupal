@@ -13,7 +13,7 @@ En este informe, presentaremos un análisis detallado de los datos recopilados d
 * Generar un informe gráfico que muestre el análisis del mercado.
 #
 # Alcance
-* El análisis se centrará en los datos de Google Maps y Yelp recopilados en Florida, Estados Unidos.
+* El análisis se centrará en los datos de Google Maps y Yelp recopilados en los 10 estados con mayor turismo extranjero en Estados Unidos.
 * Los datos analizados incluirán información sobre la cantidad de negocios cercanos, la cantidad de clientes potenciales y la calidad de los servicios que se ofrecen en la zona.
 * Se utilizará un enfoque cuantitativo para analizar los datos recopilados, incluyendo técnicas de análisis de datos estadísticos y de minería de datos.
 * El análisis de sentimiento se realizará utilizando herramientas de procesamiento del lenguaje natural para analizar las opiniones y comentarios de los clientes sobre los negocios de hotelería y gastronomía.
