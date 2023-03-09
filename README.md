@@ -1,4 +1,5 @@
 # <h1 align=center> **PROYECTO GRUPAL: Análisis de mercado en base a Google Mapas y Yelp** </h1>
+# <h1 align=center>*`DeLorean Data Consulting`*
 # <h1 align=center> ![imagen](imagen.png)
 # Abstracto
 Como empresa consultora especializada en soluciones data, hemos realizado un análisis exhaustivo utilizando datos de Google Maps y Yelp en Estados Unidos. 
@@ -18,7 +19,15 @@ En este informe, presentaremos un análisis detallado de los datos recopilados d
 * El análisis de sentimiento se realizará utilizando herramientas de procesamiento del lenguaje natural para analizar las opiniones y comentarios de los clientes sobre los negocios de hotelería y gastronomía.
 * Las recomendaciones estarán basadas en los resultados del análisis de datos y en las mejores prácticas de la industria, pero no se garantiza su éxito en el mercado.
 * El informe no considerará factores externos como regulaciones gubernamentales o cambios económicos que puedan afectar la inversión en la zona.
-
+#
+# Stack tencnológico
+#
+# Equipo de trabajo:
++ [Giselle Pereira Nuñez](https://www.linkedin.com/in/giselle-pereira-nu%C3%B1ez-011330168/)
++ [Emilio Santander](https://www.linkedin.com/in/emilio-santander/)
++ [Facundo Berón](https://www.linkedin.com/in/facundo-beron/)
++ [Horacio Morales González](https://www.linkedin.com/in/hmorales1970/)
++ [Santiago Ibarra](https://www.linkedin.com/in/santiagoibarra-dataanalytics/)
 
 
 
