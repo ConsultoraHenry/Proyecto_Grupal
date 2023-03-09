@@ -29,11 +29,11 @@ En este informe, presentaremos un análisis detallado de los datos recopilados d
  * Modelo entrenado del sistema de recomendación
 #
 # Equipo de trabajo:
-+ [Giselle Pereira Nuñez](https://www.linkedin.com/in/giselle-pereira-nu%C3%B1ez-011330168/)
-+ [Emilio Santander](https://www.linkedin.com/in/emilio-santander/)
-+ [Facundo Berón](https://www.linkedin.com/in/facundo-beron/)
-+ [Horacio Morales González](https://www.linkedin.com/in/hmorales1970/)
-+ [Santiago Ibarra](https://www.linkedin.com/in/santiagoibarra-dataanalytics/)
++ [Giselle Pereira Nuñez](https://www.linkedin.com/in/giselle-pereira-nu%C3%B1ez-011330168/) - Engineer
++ [Emilio Santander](https://www.linkedin.com/in/emilio-santander/) - Analytics
++ [Facundo Berón](https://www.linkedin.com/in/facundo-beron/) - Scientist
++ [Horacio Morales González](https://www.linkedin.com/in/hmorales1970/) - Engineer/Scientist
++ [Santiago Ibarra](https://www.linkedin.com/in/santiagoibarra-dataanalytics/) - Analytics
 
 
 
