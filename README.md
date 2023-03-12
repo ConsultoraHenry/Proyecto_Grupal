@@ -21,7 +21,7 @@ En este informe, presentaremos un análisis detallado de los datos recopilados d
 * El informe no considerará factores externos como regulaciones gubernamentales o cambios económicos que puedan afectar la inversión en la zona.
 #
 # Stack tencnológico
-#
+# <h1 align=center> ![imagen](imagen2.png)
 # Entregables
  * Propuesta de Proyecto
  * Modelo del Almacén de Datos
