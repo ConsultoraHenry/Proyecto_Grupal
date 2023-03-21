@@ -23,8 +23,8 @@ En este informe, presentaremos un análisis detallado de los datos recopilados d
 # Stack tencnológico
 # <h1 align=center> ![imagen](imagen2.png)
 # Entregables
- * Propuesta de Proyecto
- * Modelo del Almacén de Datos
+ * Propuesta de proyecto
+ * Modelo del almacén de datos
  * Tablero de control con indicadores de desempeño
  * Modelo entrenado del sistema de recomendación
 #
