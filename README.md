@@ -42,7 +42,9 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM ap
 # Stack tencnológico y Work flow
 # <h1 align=center> ![imagen](workflow.PNG)
 # Diagrama ER
+# Diagrama entidad relación Google
 # <h1 align=center> ![imagen](ER_google.png)
+# Diagrama entidad relación Yelp 
 # <h1 align=center> ![imagen](ER_yelp.png)
 # Entregables
  * Propuesta de proyecto
