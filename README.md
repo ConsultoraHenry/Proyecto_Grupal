@@ -40,7 +40,7 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM ap
 # KPIs
 # <h1 align=center> ![imagen](kpi.png)
 # Stack tencnológico
-# <h1 align=center> ![imagen](Flujo_trabajo.png)
+# <h1 align=center> ![imagen](workflow.PNG)
 # Entregables
  * Propuesta de proyecto
  * Modelo del almacén de datos
