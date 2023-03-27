@@ -1,7 +1,7 @@
 # <h1 align=center> **PROYECTO GRUPAL: Análisis de mercado en base a Google Mapas y Yelp** </h1>
 # <h1 align=center> ![imagen](Log1.png)
 # ¿Quienes somos?
-# <h1 align=center> **DELOREAN DATA CONSULTING** </h1>
+# <h1> **DELOREAN DATA CONSULTING** </h1>
 Somos un grupo de profesionales con amplia experiencia en análisis de datos, procesos empresariales y transformación digital en Latinoamérica. Provenientes de áreas variadas, pero con la misma vocación y pasión por la mejora de procesos de negocio.
 # Descripción del proyecto
 Como empresa consultora especializada en soluciones data, hemos realizado un análisis exhaustivo utilizando datos de Google Maps y Yelp en Estados Unidos. 
