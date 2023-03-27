@@ -46,6 +46,16 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM ap
 # <h1 align=center> ![imagen](ER_google.png)
 # Diagrama entidad relación Yelp 
 # <h1 align=center> ![imagen](ER_yelp.png)
+# Automatización
+La ingesta de los datos no es un proceso que pueda realizarse de manera manual, primero, debido al tamaño de los mismos y segundo por la naturaleza cambiante del origen de los datos.
+Por tal motivo se desarrollaron procesos automáticos (canalizaciones) para realizar éstas tareas.
+
+Estas canalizaciones se realizan en dos pasos, la primera, recupera los datos del repositorio original, está considerado, en la etapa de producción realizar una carga incremental en este punto a efecto de mantener actualizada la información. Estos datos se almacenan en una instancia de Google Storage. que definimos como “datalake” ya que almacena los datos crudos, con apenas algún proceso de transformación.
+
+Un segundo proceso de “canalización” se realiza para integrar los datos a una segunda instancia de almacenamiento, en la herramienta google bigQuery.
+
+# <h1 align=center> ![imagen](automatizacion.png)
+
 # Entregables
  * Propuesta de proyecto
  * Modelo del almacén de datos
