@@ -41,6 +41,9 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM ap
 # <h1 align=center> ![imagen](kpi.png)
 # Stack tencnológico y Work flow
 # <h1 align=center> ![imagen](workflow.PNG)
+# Diagrama ER
+# <h1 align=center> ![imagen](ER_google.png)
+# <h1 align=center> ![imagen](ER_yelp.png)
 # Entregables
  * Propuesta de proyecto
  * Modelo del almacén de datos
