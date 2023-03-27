@@ -32,11 +32,11 @@ En cuanto al contexto económico de la zona, Estados Unidos ha experimentado un 
 #
 # Metodología de trabajo
 Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM apoyándonos en el software de administración de proyectos Trello, en donde dividiremos y asignaremos las actividades a realizar, actualizaremos nuestro diagrama de Gantt y mantendremos un seguimiento a todo el proyecto. Los pilares de nuestra metodología son:
- *Gestión de trabajo colaborativo a través de la puesta en común de los avances.
- *Resoluciones rápidas y efectivas, reuniones diarias y comunicación fluida.
- *Visualización del flujo de trabajo y división de roles.
- *Simplicidad en las soluciones.
- 
+ * Gestión de trabajo colaborativo a través de la puesta en común de los avances.
+ * Resoluciones rápidas y efectivas, reuniones diarias y comunicación fluida.
+ * Visualización del flujo de trabajo y división de roles.
+ * Simplicidad en las soluciones.
+# 
 # Stack tencnológico
 # <h1 align=center> ![imagen](imagen2.png)
 # Entregables
