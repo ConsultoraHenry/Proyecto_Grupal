@@ -36,7 +36,9 @@ Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM ap
  * Resoluciones rápidas y efectivas, reuniones diarias y comunicación fluida.
  * Visualización del flujo de trabajo y división de roles.
  * Simplicidad en las soluciones.
-# 
+#
+# KPIs
+# <h1 align=center> ![imagen](kpi.png)
 # Stack tencnológico
 # <h1 align=center> ![imagen](imagen2.png)
 # Entregables
