@@ -30,6 +30,13 @@ En cuanto al contexto económico de la zona, Estados Unidos ha experimentado un 
 * Las recomendaciones estarán basadas en los resultados del análisis de datos y en las mejores prácticas de la industria, pero no se garantiza su éxito en el mercado.
 * El informe no considerará factores externos como regulaciones gubernamentales o cambios económicos que puedan afectar la inversión en la zona.
 #
+# Metodología de trabajo
+Utilizaremos un método de trabajo ágil con enfoque en la metodología SCRUM apoyándonos en el software de administración de proyectos Trello, en donde dividiremos y asignaremos las actividades a realizar, actualizaremos nuestro diagrama de Gantt y mantendremos un seguimiento a todo el proyecto. Los pilares de nuestra metodología son:
+ *Gestión de trabajo colaborativo a través de la puesta en común de los avances.
+ *Resoluciones rápidas y efectivas, reuniones diarias y comunicación fluida.
+ *Visualización del flujo de trabajo y división de roles.
+ *Simplicidad en las soluciones.
+ 
 # Stack tencnológico
 # <h1 align=center> ![imagen](imagen2.png)
 # Entregables
