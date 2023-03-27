@@ -1,5 +1,5 @@
 # <h1 align=center> **PROYECTO GRUPAL: Análisis de mercado en base a Google Mapas y Yelp** </h1>
-# <h1 align=center> ![imagen](logo3.png)
+# <h1 align=center> ![imagen](logo3.PNG)
 # <h1 align=center> ![imagen](logo1.png)
 # Abstracto
 Como empresa consultora especializada en soluciones data, hemos realizado un análisis exhaustivo utilizando datos de Google Maps y Yelp en Estados Unidos. 
