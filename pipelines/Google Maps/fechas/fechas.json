@@ -1,0 +1,44 @@
+{
+    "estados": [
+        {
+            "estado": "Prueba",
+            "fecha": "2000-01-01"
+        },
+        {
+            "estado": "California",
+            "fecha": "2021-09-09"
+        },
+        {
+            "estado": "Nevada",
+            "fecha": "2021-09-07"
+        },
+        {
+            "estado": "Nueva York",
+            "fecha": "2021-09-08"
+        },
+        {
+            "estado": "Texas",
+            "fecha": "2021-09-09"
+        },
+        {
+            "estado": "Illinois",
+            "fecha": "2021-09-08"
+        },
+        {
+            "estado": "Massachusetts",
+            "fecha": "2021-09-07"
+        },
+        {
+            "estado": "Nueva Jersey",
+            "fecha": "2021-09-08"
+        },
+        {
+            "estado": "Florida",
+            "fecha": "2021-09-09"
+        },
+        {
+            "estado": "Hawaii",
+            "fecha": "2021-09-09"
+        }
+    ]
+}
