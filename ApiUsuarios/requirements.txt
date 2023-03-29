@@ -1,0 +1,12 @@
+pandas
+numpy
+pydantic
+google-cloud-storage
+google-cloud-datastore
+google-cloud-bigquery
+pandas-gbq
+scikit-surprise
+scikit-learn
+fastapi
+uvicorn
+gunicorn
